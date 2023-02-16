@@ -2,9 +2,11 @@
 
 The ATM interface is a Command Line Interface Program
 <br>
-which allows the user to create
+which allows the user to
 <br>
-bank account
+Login or Logout
+<br>
+create bank account
 <br>
 deposit money
 <br>
