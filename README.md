@@ -1,6 +1,7 @@
 # ATMInterface
 
-The ATM interface is a Command Line Interface 
+The ATM interface is a Command Line Interface Program
+<br>
 which allows the user to create
 <br>
 bank account
@@ -8,4 +9,5 @@ bank account
 deposit money
 <br>
 withdraw money
+<br>
 check balance
