@@ -5,7 +5,6 @@
 <pre>
 <img src="/img/1.startPage.png" alt="Alt text" title="Optional title">
 </pre>
-<br>
 <h3 align="center"> Registration page to input all the information </h3>
 <pre>
 <img src="/img/2.registration.png" alt="Alt text" title="Optional title">
