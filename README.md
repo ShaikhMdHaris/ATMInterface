@@ -1,6 +1,6 @@
 <h1 align="center"> ATM Interface</h1>
 
-The ATM interface is a Command Line Interface Program
+<h2 align="center">The ATM interface is a Command Line Interface Program <h2>
 <h3 align="center"> ATM Start page</h3>
 <pre>
 <img src="/img/1.startPage.png" alt="Alt text" title="Optional title">
